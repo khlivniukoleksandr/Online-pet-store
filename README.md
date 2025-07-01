@@ -5,6 +5,6 @@ Create an online store where you can choose a product, add it to the cart and pl
 
 <h2 style="font-size:20px;text-align:center;">Diagram</h2>
 <hr>
-<img src="Images/Diagram_online_pet_store.drawio.svg"/>
+<img src="Images/Diagram_online_pet_store.drawio.svg" alt = "Diagram"/>
 
 <hr>
